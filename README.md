@@ -73,9 +73,7 @@
 **Dinesh Nathani** — Aspiring Financial / Data Analyst
 📧 dineshnathani57@gmail.com
 📍 Ulhasnagar, Maharashtra
-
-[![LinkedIn][(https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-](https://www.linkedin.com/in/dinesh-nathani-34492b215/)
+[LinkedIn](https://www.linkedin.com/in/dinesh-nathani-34492b215/)
 ---
 
 > ⭐ If you found this project useful or insightful, consider giving it a star!
